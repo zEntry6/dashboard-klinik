@@ -1,3 +1,5 @@
+![Klinik Dashboard Cover](assets/dashboard.png)
+
 # Klinik Dashboard
 
 Aplikasi web sederhana untuk mengelola data pasien, rekam medis, obat, antrian, dan laporan pendapatan klinik.
