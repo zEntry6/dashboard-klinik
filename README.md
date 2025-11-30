@@ -233,3 +233,11 @@ project-root/
    ├─ medicines_*.php   # CRUD obat
    ├─queues_*.php       # antrian
    └─ reports_*.php     # laporan & dashboard
+```
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-fayyservice%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fayyservice@gmail.com)
+[![Website](https://img.shields.io/badge/Website-fayadh.my.id-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fayadh.my.id)
