@@ -115,7 +115,7 @@ erDiagram
 
 - **Pasien**
   - No Rekam Medis (auto)
-  - Identitas dasar (nama, tanggal lahir, jenis kelamin, alamat, no HP, pekerjaan)
+  - Identitas dasar (nama, tanggal lahir, jenis_kelamin, alamat, no HP, pekerjaan)
   - Pencarian + filter:
     - teks bebas (nama / no RM / no HP)
     - jenis kelamin
@@ -234,6 +234,74 @@ project-root/
    ├─queues_*.php       # antrian
    └─ reports_*.php     # laporan & dashboard
 ```
+
+---
+
+## Screenshots
+
+### Login Page
+
+![Login Page](assets/login_page.png)
+
+### Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+### Laporan Klinik
+
+![Laporan Klinik](assets/laporan-klinik.png)
+
+### Data Pasien
+
+![Data Pasien](assets/data_pasien.png)
+
+### Form Tambah Pasien
+
+![Form Tambah Pasien](assets/tambah_pasien.png)
+
+### Form Kunjungan Baru
+
+![Form Kunjungan Baru](assets/form_kunjungan_pasien.png)
+
+### Riwayat Kunjungan
+
+![Riwayat Kunjungan](assets/riwayat_kunjungan.png)
+
+### Detail Kunjungan
+
+![Detail Kunjungan](assets/detail_kunjungan.png)
+
+### Cetak Riwayat / Rekam Medis
+
+![Cetak Riwayat](assets/CetakKunjungan-JohnDoe.pdf)
+
+### Antrian Pasien
+
+![Antrian Pasien](assets/antrian_pasien.png)
+
+### Antrian Pasien
+
+![Antrian Pasien](assets/form_tambah_antrian.png)
+
+### Daftar Obat
+
+![Daftar Obat](assets/master_obat.png)
+
+### Form Tambah Obat
+
+![Form Tambah Obat](assets/form_master_obat.png)
+
+### Manajemen User
+
+![Manajemen User](assets/manajemen_user.png)
+
+### Form Tambah User
+
+![Form Tambah User](assets/form_tambah_user.png)
+
+### Form Ganti Password
+
+![Form Ganti Password](assets/form_ganti_password.png)
 
 ---
 
