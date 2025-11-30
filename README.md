@@ -249,7 +249,7 @@ project-root/
 
 ### Laporan Klinik
 
-![Laporan Klinik](assets/laporan-klinik.png)
+![Laporan Klinik](assets/laporan_klinik.png)
 
 ### Data Pasien
 
