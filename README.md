@@ -1,11 +1,10 @@
-![Klinik Dashboard Cover](assets/dashboard.png)
-
 # Klinik Dashboard
 
 Aplikasi web sederhana untuk mengelola data pasien, rekam medis, obat, antrian, dan laporan pendapatan klinik.
 
 Dibangun dengan PHP + MySQL tanpa framework besar, fokus pada alur kerja klinik kecil/menengah.
 
+![Klinik Dashboard Cover](assets/dashboard.png)
 ---
 
 ## ERD
