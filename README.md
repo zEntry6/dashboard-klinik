@@ -8,6 +8,7 @@ Dibangun dengan PHP + MySQL tanpa framework besar, fokus pada alur kerja klinik 
 
 ## ERD
 
+```mermaid
 erDiagram
 
   USERS {
@@ -93,6 +94,7 @@ erDiagram
 
   VISITS ||--o{ VISIT_MEDICINES : "visit_id"
   MEDICINES ||--o{ VISIT_MEDICINES : "medicine_id"
+```
 
 ## Fitur Utama
 
@@ -195,7 +197,7 @@ erDiagram
 ## Stack Teknologi
 
 - **Backend**:  
-  - PHP 8.x (tanpa framework)
+  - PHP 8.2.12
   - PDO untuk koneksi MySQL
 - **Database**:  
   - MySQL / MariaDB (InnoDB, utf8mb4)
@@ -205,7 +207,7 @@ erDiagram
 - **Lingkungan Pengembangan**:
   - XAMPP (Apache + MySQL) di lokal
 - **Deploy / Hosting**:
-  - Shared/free hosting (contoh: InfinityFree) – root di `/htdocs`
+  - InfinityFree – root di `/htdocs`
 
 ---
 
